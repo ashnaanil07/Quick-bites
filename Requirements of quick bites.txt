@@ -26,3 +26,4 @@ naveen
 16.separate app for partners
 17.customer care
 
+git remote add origin https://github.com/ashnaanil07/Quick-bites
