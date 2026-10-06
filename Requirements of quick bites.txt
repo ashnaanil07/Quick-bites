@@ -1,0 +1,28 @@
+Requirements of quick bites
+
+ashna
+1.user registration and login
+2.list of restaurants
+3.shows nearby restaurants
+sanah
+4.offers
+5.search functions
+6.filtering
+safna
+7.restaurant details
+8.food menu
+9.cart
+anish
+10.payment
+	10.1 online payment
+	10.2 cash on delivery
+11.rewards for order
+parvathy
+12.order tracking
+13.notification
+14.ratings and reviews
+naveen
+15.advertisment generation
+16.separate app for partners
+17.customer care
+
